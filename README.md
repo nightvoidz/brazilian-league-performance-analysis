@@ -195,3 +195,5 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/performance_analysis.ipynb
 ```
+
+Caso prefira, pode visualizar o notebook diretamente abrindo-o pelo próprio repositório do Github.

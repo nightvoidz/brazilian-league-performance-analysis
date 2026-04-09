@@ -170,19 +170,27 @@ Embora equipes mais bem colocadas tendam a marcar mais gols e sofrer menos, o fa
 
 ## Como Executar
 
+Os comandos abaixo funcionam em Windows, Linux e macOS (com Git, Python e Jupyter instalados):
+
 **1. Clone o repositório:**
 
 ```bash
 git clone <url-do-repositorio>
 ```
 
-**2. Instale as dependências:**
+**2. Entre no diretório**
+
+```bash
+cd brazilian-league-performance-analysis
+```
+
+**3. Instale as dependências:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-**3. Abra o notebook:**
+**4. Abra o notebook:**
 
 ```bash
 jupyter notebook notebooks/performance_analysis.ipynb
